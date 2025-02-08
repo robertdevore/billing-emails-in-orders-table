@@ -1,0 +1,19 @@
+# Adds a billing email column to the WooCommerce Orders table.
+# Copyright (C) 2025 Plugin Pal.
+# This file is distributed under the same license as the PACKAGE package.
+# PLUGIN PAL <support@pluginpal.app>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-08 08:51+0000\n"
+"Last-Translator: Plugin Pal <support@pluginpal.app>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+#: /tmp/billing-emails-in-orders-table/billing-emails-in-orders-table.php:28
+msgid "Billing Email"
+msgstr ""
